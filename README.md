@@ -1,17 +1,40 @@
-# perfect_day
+# ☀️ Perfect Day
 
-A new Flutter project.
+> A simple productivity app designed to help you plan, organize, and make the most of your day.
 
-## Getting Started
+## 📱 About
 
-This project is a starting point for a Flutter application.
+**Perfect Day** is a productivity-focused application that helps users organize their daily activities and stay focused on what matters.
 
-A few resources to get you started if this is your first Flutter project:
+The goal is simple: turn a busy day into a clear and manageable plan.
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+## ✨ Features
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- 📅 Plan your day
+- ✅ Manage daily tasks
+- 🎯 Stay focused on priorities
+- 📊 Track your daily progress
+- 🧹 Keep your schedule organized
+- 🎨 Clean and simple user interface
+
+## 🛠️ Tech Stack
+
+- **Flutter**
+- **Dart**
+- **Material Design**
+- **Local Storage**
+
+## 📂 Project Structure
+
+```text
+lib/
+├── models/
+├── screens/
+├── services/
+├── widgets/
+└── main.dart
+
+assets/
+├── images/
+└── icons/
+```
